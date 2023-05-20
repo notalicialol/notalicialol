@@ -1,13 +1,19 @@
-Hii!
-I'm (not) alicialol.
-I am coding in the following languages:
-- Python
-- HTML
-- CSS
-I'm learning:
-- Javascript / NodeJS
+<h2>Hello! I'm (not) alicialol.</h2>
+<p>I am currently coding in the following languages:</p>
+<li>Python</li>
+<li>HTML</li>
+<li>CSS</li>
 
-Currently I am working on some personal projects.
+<br>
 
-You can contact me by DMing me on Discord:
-alicialol#9669.
+<p>Currently I am learning:</p>
+<li>Javascript / NodeJS</li>
+
+<br>
+
+<p>Currently, I am not working on any <b>public</b> projects</p>
+
+<br>
+
+<p>You can contact me by DMing me on Discord</p>
+<b>alicialol#9669</b>
